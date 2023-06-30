@@ -1,0 +1,2 @@
+My python submissions to Advent of Code 2022, among fastest 2500 to fully complete of over 250k entrants worldwide.
+Both parts completed in Python for all days on the day. See https://adventofcode.com/2022/stats.
